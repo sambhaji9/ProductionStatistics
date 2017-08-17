@@ -1,0 +1,697 @@
+﻿[{
+        "serialNo": "#",
+        "appName": "Name",
+        "appVersion": "Version",
+        "onlineDate": "Offline Date",
+        "appType": "App type",
+        "platform": "Platform"
+    },
+    {
+        "serialNo": "",
+        "appName": "Langzeit-Sauerstofftherapie",
+        "appVersion": "2.4",
+        "onlineDate": "17-08-2017",
+        "appType": "Pharma",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Langzeit-Sauerstofftherapie",
+        "appVersion": "2.5",
+        "onlineDate": "17-08-2017",
+        "appType": "Pharma",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Gesundheits-Pass Diabetes",
+        "appVersion": "1.3",
+        "onlineDate": "17-07-2017",
+        "appType": "Pharma",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Gesundheits-Pass Diabetes",
+        "appVersion": "1.2",
+        "onlineDate": "17-07-2017",
+        "appType": "Pharma",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Antibiotika pocketcards",
+        "appVersion": "3.2",
+        "onlineDate": "21-06-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Antibiotika pocketcards",
+        "appVersion": "5.1",
+        "onlineDate": "21-06-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Anatomy pocket",
+        "appVersion": "1.6",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Anatomy pocket",
+        "appVersion": "2.3",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Canadian Drug pocket",
+        "appVersion": "1.2",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Canadian Drug pocket",
+        "appVersion": "1.2",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Emergency Drugs pocket",
+        "appVersion": "1.1",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Emergency Medicine pocket",
+        "appVersion": "1.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Epilepsy pocketcards",
+        "appVersion": "1.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Epilepsy pocketcards",
+        "appVersion": "1.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Geriatrics pocketcards",
+        "appVersion": "1.1",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Geriatrics pocketcards",
+        "appVersion": "1.2",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Homeopathy pocket",
+        "appVersion": "1.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Homeopathy pocket",
+        "appVersion": "1.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Interactive Medicine pocket",
+        "appVersion": "1.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Interactive Medicine pocket",
+        "appVersion": "1.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Psychomatic Consultation pocketcards",
+        "appVersion": "1.1",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Psychomatic Consultation pocketcards",
+        "appVersion": "1.1",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Surgery pocketcards",
+        "appVersion": "3.1",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Surgery pocketcards",
+        "appVersion": "2.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Trauma pocketcards",
+        "appVersion": "1.1",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Trauma pocketcards",
+        "appVersion": "2.1",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Notfallmedikamente pocket",
+        "appVersion": "2.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Notfallmedikamente pocket",
+        "appVersion": "2.1",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "EKG pocket",
+        "appVersion": "1.2",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "EKG pocket",
+        "appVersion": "1.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Sono Abdomen pocketcards",
+        "appVersion": "2.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Sono Abdomen pocketcards",
+        "appVersion": "2.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Heilpraktiker pocket",
+        "appVersion": "2.1",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Heilpraktiker pocket",
+        "appVersion": "2.1",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "FindRisk Diabetes",
+        "appVersion": "2.0",
+        "onlineDate": "17-01-2017",
+        "appType": "Pharma",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "FindRisk Diabetes",
+        "appVersion": "2.1",
+        "onlineDate": "17-01-2017",
+        "appType": "Pharma",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Akupunktur pocket",
+        "appVersion": "2.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Akupunktur pocket",
+        "appVersion": "3.2",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Homoopathie pocket",
+        "appVersion": "1.3",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Homoopathie pocket",
+        "appVersion": "2.1",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "EEG pocketflyer",
+        "appVersion": "2.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "EKG pocketcards",
+        "appVersion": "3.0",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Diabetes Mellitus Infopocket",
+        "appVersion": "2.1",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Diabetes Mellitus Infopocket",
+        "appVersion": "3.3",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Epilepsie pocketcards",
+        "appVersion": "2.5",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Epilepsie pocketcards",
+        "appVersion": "2.5",
+        "onlineDate": "17-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Anatomie pocket",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Anatomie pocket",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "E-LyteSaure basen pocketcards",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "E-LyteSaure basen pocketcards",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Geburtshilfe pocketcards",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Geburtshilfe pocketcards",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "HNO pocket",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "HNO pocket",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Intensive beatmung pocketcards",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Intensive beatmung pocketcards",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Malignes Melanoma",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Malignes Melanoma",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Psoriasis pocketcards",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Psoriasis pocketcards",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Regional Anasthesie pocket",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Regional Anasthesie pocket",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Medizinisches English",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Medizinisches English",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Neuroimaging pocket",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Neurologie pocket",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Neurologie pocketcards",
+        "appVersion": "",
+        "onlineDate": "13-01-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Guide immurelated biverkan",
+        "appVersion": "",
+        "onlineDate": "11-01-2017",
+        "appType": "Pharma",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Guide immurelated biverkan",
+        "appVersion": "",
+        "onlineDate": "11-01-2017",
+        "appType": "Pharma",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "irAE Management Ipilimumab",
+        "appVersion": "",
+        "onlineDate": "11-01-2017",
+        "appType": "Pharma",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "irAE Management Ipilimumab",
+        "appVersion": "",
+        "onlineDate": "11-01-2017",
+        "appType": "Pharma",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "ECG i-pocketcards",
+        "appVersion": "",
+        "onlineDate": "06-01-2017",
+        "appType": "Pharma",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Diabetes Mellitus i-pocketcards",
+        "appVersion": "",
+        "onlineDate": "26-12-2016",
+        "appType": "Pharma",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "EKG i-pocketcards",
+        "appVersion": "",
+        "onlineDate": "26-12-2016",
+        "appType": "Pharma",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Leben mit Typ-2-Diabetes",
+        "appVersion": "",
+        "onlineDate": "28-11-2016",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Ernahrung Typ-2-Diabetes",
+        "appVersion": "",
+        "onlineDate": "28-11-2016",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Leben mit Hashimoto-Thyreoiditis",
+        "appVersion": "",
+        "onlineDate": "28-11-2016",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Leben mit Asthma",
+        "appVersion": "",
+        "onlineDate": "28-11-2016",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "COPD",
+        "appVersion": "",
+        "onlineDate": "28-11-2016",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Bipolar1 Manie i-pocketcards",
+        "appVersion": "",
+        "onlineDate": "26-09-2016",
+        "appType": "Pharma",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Bipolar1 Manie i-pocketcards",
+        "appVersion": "",
+        "onlineDate": "26-09-2016",
+        "appType": "Pharma",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Ipilimumab - Gestão de RAir",
+        "appVersion": "",
+        "onlineDate": "23-09-2016",
+        "appType": "Pharma",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Ipilimumab - Gestão de RAir",
+        "appVersion": "",
+        "onlineDate": "23-09-2016",
+        "appType": "Pharma",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Diabetes Mellitus i-pocketcards",
+        "appVersion": "",
+        "onlineDate": "23-09-2016",
+        "appType": "Pharma",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "i-pocketcards thérapie orale du diabète de type 2",
+        "appVersion": "",
+        "onlineDate": "23-09-2016",
+        "appType": "Pharma",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "CME 2 Go",
+        "appVersion": "1.1",
+        "onlineDate": "10-12-2015",
+        "appType": "Pharma",
+        "platform": "iOS"
+    }
+]

@@ -1,0 +1,46 @@
+﻿body {
+    padding: 20px;
+}
+
+th, td {
+    text-align: center;
+}
+
+.header {
+    height: 50px;
+    float: none;
+    margin: 0 auto;
+    padding: 0;
+    vertical-align: middle;
+    display: table-cell;
+    width: 100%;
+    font-family: Roboto;
+    color: #757575;
+    font-size: 20px;
+}
+
+.sub-header {
+    color: #757575;
+    font-size: 17px;
+    display: none;
+}
+
+.chart-table {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.chart-div {
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.left-text {
+    text-align: left;
+}

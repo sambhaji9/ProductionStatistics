@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+
+    <title>Apps Weekly Report</title>
+
+    <script src="jquery-3.1.0.min.js"></script>
+    <script src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css" type="text/css" />
+
+    <link rel="stylesheet" href="reports.css" type="text/css" />
+    <script src="reports.js"></script>
+
+    <!-- Load tde AJAX API -->
+    <script src="loader.js"></script>
+    <script src="refresh.js?time=" + Math.random()></script>
+
+</head>
+
+<body>
+
+    <div class="header">Team Production - 2017<br><br><span class="sub-header">Apps Weekly Reports</span></div>
+
+    <div>
+
+        <!--Nav tabs-->
+        <ul class="nav nav-tabs">
+            <li role="presentation" class="active">
+                <a href="#home" aria-controls="home" role="tab" data-toggle="tab" id="tHome">Home</a>
+            </li>
+            <li role="presentation">
+                <a href="#technical" aria-controls="technical" role="tab" data-toggle="tab" id="tTechnical">Technical</a>
+            </li>
+            <li role="presentation">
+                <a href="#server" aria-controls="server" role="tab" data-toggle="tab" id="tServer">Server</a>
+            </li>
+            <li role="presentation">
+                <a href="#offline" aria-controls="offline" role="tab" data-toggle="tab" id="tOffline">Offline</a>
+            </li>
+            <li role="presentation">
+                <a href="#performance" aria-controls="performance" role="tab" data-toggle="tab" id="tperformance">Performance</a>
+            </li>
+            <li role="presentation">
+                <input id="searchBox" type="text" class="form-control" placeholder="Search" style="margin-right: 30px;" />
+            </li>
+        </ul>
+
+        <!--Tab panes-->
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane fade in active" id="home">
+                <div style="margin-top: 20px;">
+                    <div id="chart_table" class="chart-table"></div>
+                    <div id="chart_div" class="chart-div"></div>
+                </div>
+            </div>
+
+            <div role="tabpanel" class="tab-pane fade" id="technical">
+            </div>
+
+            <div role="tabpanel" class="tab-pane fade" id="server">
+            </div>
+
+            <div role="tabpanel" class="tab-pane fade" id="offline">
+            </div>
+
+            <div role="tabpanel" class="tab-pane fade" id="performance">
+            </div>
+
+        </div>
+    </div>
+
+</body>
+
+</html>
