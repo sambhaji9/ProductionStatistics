@@ -1163,5 +1163,27 @@
         "programmer": "Nilesh",
         "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/EN/Inhouse/Acid+base+pocket/v4.1/Acid_base_iOS_4.1.zip",
         "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ESC pocket guidelines",
+        "appVersion": "3.6",
+        "onlineDate": "18-08-2017",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/DE/Association/ESC+GL+app/v3.6/ESC_V3.6_MB6.7_10Aug_2017.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ESC pocket guidelines",
+        "appVersion": "3.6",
+        "onlineDate": "18-08-2017",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Aditya, Tejsvi",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/DE/Association/ESC/v3.6/v3.6.zip",
+        "details": ""
     }
 ]
