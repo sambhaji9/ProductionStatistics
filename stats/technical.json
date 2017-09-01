@@ -1185,5 +1185,27 @@
         "programmer": "Aditya, Tejsvi",
         "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/DE/Association/ESC/v3.6/v3.6.zip",
         "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "Labormedizin pocket",
+        "appVersion": "3.5",
+        "onlineDate": "31-08-2017",
+        "appType": "Pharma",
+        "platform": "iOS",
+        "programmer": "Shrinath",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/DE/Pharma/Labormedizin/v3.5/Labormedizine_27_July_2017_version_3.5.zip",
+        "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/Labormedizin-pocket/9-July-2017/Labormedizin_pocket_9-July-2017.pdf"
+    },
+    {
+        "serialNo": "",
+        "appName": "Labormedizin pocket",
+        "appVersion": "3.4",
+        "onlineDate": "29-08-2017",
+        "appType": "Pharma",
+        "platform": "Android",
+        "programmer": "Piyush",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/DE/Pharma/Labormedizin+pocket/v3.4/v3.4.zip",
+        "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/Labormedizin-pocket/9-July-2017/Labormedizin_pocket_9-July-2017.pdf"
     }
 ]

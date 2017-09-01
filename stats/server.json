@@ -668,5 +668,27 @@
         "programmer": "Aditya",
         "backup": "",
         "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ESC pocket guidelines",
+        "appVersion": "3.6",
+        "onlineDate": "26-08-2017",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Aditya, Piyush",
+        "backup": "",
+        "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/server_updates/ESC_app/ESC-app-28-August-2017.txt"
+    },
+    {
+        "serialNo": "",
+        "appName": "ESC pocket guidelines",
+        "appVersion": "3.6",
+        "onlineDate": "26-08-2017",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath",
+        "backup": "",
+        "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/server_updates/ESC_app/ESC-app-28-August-2017.txt"
     }
 ]
