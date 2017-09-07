@@ -233,7 +233,8 @@ function showGraph() {
             ["Week 31", 1, 1],
             ["Week 32", 1, 0],
             ["Week 33", 0, 1],
-            ["Week 34", 0, 0]
+            ["Week 34", 0, 0],
+            ["Week 35", 1, 1]
         ]);
 
         // Set Chart options
@@ -287,7 +288,8 @@ function showGraph() {
             ["Week 31", 1, 1],
             ["Week 32", 1, 0],
             ["Week 33", 0, 1],
-            ["Week 34", 0, 0]
+            ["Week 34", 0, 0],
+            ["Week 35", 1, 1]
         ]);
 
         var table = new google.visualization.Table(document.getElementById("chart_table"));

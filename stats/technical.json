@@ -1207,5 +1207,16 @@
         "programmer": "Piyush",
         "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/DE/Pharma/Labormedizin+pocket/v3.4/v3.4.zip",
         "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/Labormedizin-pocket/9-July-2017/Labormedizin_pocket_9-July-2017.pdf"
+    },
+    {
+        "serialNo": "",
+        "appName": "ESMO Interactive Guidelines",
+        "appVersion": "1.6",
+        "onlineDate": "05-09-2017",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath, Vinod",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/DE/Association/ESMO/v1.6/ESMO_Ver_1.6_05_Sept_2017.zip",
+        "details": ""
     }
 ]
