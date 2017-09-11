@@ -695,7 +695,7 @@
         "serialNo": "",
         "appName": "DGVS Leitlinien",
         "appVersion": "3.5",
-        "onlineDate": "16-03-2017",
+        "onlineDate": "05-09-2017",
         "appType": "Association",
         "platform": "Android",
         "programmer": "Aditya",
@@ -706,11 +706,33 @@
         "serialNo": "",
         "appName": "DGVS Leitlinien",
         "appVersion": "3.7",
-        "onlineDate": "16-03-2017",
+        "onlineDate": "05-09-2017",
         "appType": "Association",
         "platform": "iOS",
         "programmer": "Aditya",
         "backup": "",
         "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/server_updates/DGVS_app/DGVS+server+update_30-May-17.pdf"
+    },
+    {
+        "serialNo": "",
+        "appName": "EHRA Key Messages",
+        "appVersion": "2.4",
+        "onlineDate": "07-09-2017",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Aditya",
+        "backup": "",
+        "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/server_updates/EHRA_KM_app/EHRA_KM_app_7-Sep-2017.txt"
+    },
+    {
+        "serialNo": "",
+        "appName": "EHRA Key Messages",
+        "appVersion": "2.6",
+        "onlineDate": "07-09-2017",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Aditya",
+        "backup": "",
+        "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/server_updates/EHRA_KM_app/EHRA_KM_app_7-Sep-2017.txt"
     }
 ]
