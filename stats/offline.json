@@ -8,6 +8,38 @@
     },
     {
         "serialNo": "",
+        "appName": "Notfallmedizin pocket",
+        "appVersion": "3.1",
+        "onlineDate": "05-10-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Notfallmedizin pocket",
+        "appVersion": "2.1",
+        "onlineDate": "05-10-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
+        "appName": "Worterbuch Medizin pocket",
+        "appVersion": "1.0",
+        "onlineDate": "05-10-2017",
+        "appType": "In-house",
+        "platform": "iOS"
+    },
+    {
+        "serialNo": "",
+        "appName": "Worterbuch Medizin pocket",
+        "appVersion": "1.0",
+        "onlineDate": "05-10-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
         "appName": "Langzeit-Sauerstofftherapie",
         "appVersion": "2.4",
         "onlineDate": "17-08-2017",
