@@ -1295,5 +1295,49 @@
         "programmer": "Piyush, Aditya",
         "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/DE/Association/EAU+app/v1.2/v1.2.zip",
         "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/EAU/EAU_app_29Sep2017.pdf"
+    },
+    {
+        "serialNo": "",
+        "appName": "ASCO Guidelines app",
+        "appVersion": "1.1",
+        "onlineDate": "28-10-2017",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Kapil",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/EN/Associations+Society/ASCO+app/v1.1/ASCO_android_backup_mb_6.12_v1.1.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ASCO Guidelines app",
+        "appVersion": "1.1",
+        "onlineDate": "28-10-2017",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Vinod",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/EN/Association/ASCO+app/v1.1/ASCO_iOS_backup_mb_6.13_v1.1.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "AHA Guidelines on-the-go app",
+        "appVersion": "2.0",
+        "onlineDate": "09-11-2017",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Vinod, Shrinath",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/EN/Association/AHA_app/v2.0/AHA_iOS_app_complete_backup_V2.0_8Nov17.zip",
+        "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/AHA_app/AHA_app.pdf"
+    },
+    {
+        "serialNo": "",
+        "appName": "AHA Guidelines on-the-go app",
+        "appVersion": "2.0",
+        "onlineDate": "09-11-2017",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Aditya, Kapil",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/EN/Associations+Society/AHA_app/v2.0/v2.0.zip",
+        "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/AHA_app/AHA_app.pdf"
     }
 ]

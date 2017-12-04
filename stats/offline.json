@@ -8,6 +8,14 @@
     },
     {
         "serialNo": "",
+        "appName": "Medikamente Niereninsuffizienz (DANI)",
+        "appVersion": "1.0",
+        "onlineDate": "29-11-2017",
+        "appType": "In-house",
+        "platform": "Android"
+    },
+    {
+        "serialNo": "",
         "appName": "Notfallmedizin pocket",
         "appVersion": "3.1",
         "onlineDate": "05-10-2017",
