@@ -847,6 +847,28 @@
     },
     {
         "serialNo": "",
+        "appName": "ACC guidelines",
+        "appVersion": "2.6",
+        "onlineDate": "10-11-2017",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ACC guidelines",
+        "appVersion": "2.5",
+        "onlineDate": "10-11-2017",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Aditya",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
         "appName": "AHA Guidelines on-the-go app",
         "appVersion": "2.0",
         "onlineDate": "13-11-2017",
@@ -883,6 +905,28 @@
         "appName": "DGK Pocket Leitlinien",
         "appVersion": "4.5",
         "onlineDate": "30-11-2017",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Aaditya, Shrinath",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "DGK Pocket Leitlinien",
+        "appVersion": "4.4",
+        "onlineDate": "12-12-2017",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Aaditya",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "DGK Pocket Leitlinien",
+        "appVersion": "4.5",
+        "onlineDate": "12-12-2017",
         "appType": "Association",
         "platform": "iOS",
         "programmer": "Aaditya, Shrinath",
