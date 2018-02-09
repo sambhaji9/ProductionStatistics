@@ -1339,5 +1339,115 @@
         "programmer": "Aditya, Kapil",
         "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/EN/Associations+Society/AHA_app/v2.0/v2.0.zip",
         "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/AHA_app/AHA_app.pdf"
+    },
+    {
+        "serialNo": "",
+        "appName": "Endocrine CPG app",
+        "appVersion": "1.3",
+        "onlineDate": "10-01-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/EN/Association/Endocrine_CPG_app/v1.3/Endocrinev1.3.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "Endocrine CPG app",
+        "appVersion": "1.4",
+        "onlineDate": "15-01-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/EN/Association/Endocrine_CPG_app/v1.4/Endocrine_V1.4_12Jan2017_complete_appbackup.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "COPD pocket 2018",
+        "appVersion": "3.3",
+        "onlineDate": "15-01-2018",
+        "appType": "Pharma",
+        "platform": "iOS",
+        "programmer": "Shrinath",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/DE/Pharma/COPD+Novartis/v3.3/COPD_app_Ver3.3_MB6.28_11Jan2018.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "COPD pocket 2018",
+        "appVersion": "3.3",
+        "onlineDate": "16-01-2018",
+        "appType": "Pharma",
+        "platform": "Android",
+        "programmer": "Aditya",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/DE/Pharma/COPD+pocket/v3.3/v3.3.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "DGVS Leitlinien",
+        "appVersion": "4.0",
+        "onlineDate": "02-02-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Aditya, Neville",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/DE/Association/DGVS/v4.0/v4.0.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "EAU Guidelines app",
+        "appVersion": "1.3",
+        "onlineDate": "02-02-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Piyush",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/DE/Association/EAU+app/v1.3/v1.3.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "DGVS Leitlinien",
+        "appVersion": "3.8",
+        "onlineDate": "05-02-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Harshit, ",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/DE/Association/DGVS/v3.8/DGVS_iOS_MB_v6.29_18_Jan_2018.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ASCO Guideline app",
+        "appVersion": "1.2",
+        "onlineDate": "08-02-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Harshit, Vinod ",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/EN/Association/ASCO+app/v1.2/ASCO_MB_v6.28_11_Jan_2018.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ASCO Guideline app",
+        "appVersion": "1.2",
+        "onlineDate": "08-02-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Aditya, Neville",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/EN/Associations+Society/ASCO+app/v1.2/v1.2.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "EAU Guidelines app",
+        "appVersion": "1.3",
+        "onlineDate": "09-02-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath, Vinod",
+        "backup": "",
+        "details": ""
     }
 ]

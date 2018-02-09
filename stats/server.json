@@ -832,7 +832,7 @@
         "platform": "Android",
         "programmer": "Aditya",
         "backup": "",
-        "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/AHA_app/AHA_app.pdf"
+        "details": ""
     },
     {
         "serialNo": "",
@@ -843,7 +843,7 @@
         "platform": "iOS",
         "programmer": "Shrinath",
         "backup": "",
-        "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/AHA_app/AHA_app.pdf"
+        "details": ""
     },
     {
         "serialNo": "",
@@ -876,7 +876,7 @@
         "platform": "Android",
         "programmer": "Aditya",
         "backup": "",
-        "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/AHA_app/AHA_app.pdf"
+        "details": ""
     },
     {
         "serialNo": "",
@@ -887,7 +887,7 @@
         "platform": "iOS",
         "programmer": "Shrinath",
         "backup": "",
-        "details": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Production/documents/AHA_app/AHA_app.pdf"
+        "details": ""
     },
     {
         "serialNo": "",
@@ -930,6 +930,72 @@
         "appType": "Association",
         "platform": "iOS",
         "programmer": "Aaditya, Shrinath",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "AHA Guidelines on-the-go app",
+        "appVersion": "2.0",
+        "onlineDate": "05-01-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Piyush",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "AHA Guidelines on-the-go app",
+        "appVersion": "2.0",
+        "onlineDate": "05-01-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "Endocrine CPG app",
+        "appVersion": "1.2",
+        "onlineDate": "09-01-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Neville",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "AHA Guidelines on-the-go app",
+        "appVersion": "2.0",
+        "onlineDate": "25-01-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "AHA Guidelines on-the-go app",
+        "appVersion": "2.0",
+        "onlineDate": "25-01-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Aditya",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "COPD app",
+        "appVersion": "3.6",
+        "onlineDate": "31-01-2018",
+        "appType": "Pharma",
+        "platform": "iOS",
+        "programmer": "Harshit",
         "backup": "",
         "details": ""
     }
