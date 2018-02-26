@@ -253,7 +253,12 @@ function showGraph() {
             ["Week 51", 0, 0],
             ["Week 52", 0, 0],
             ["Week 1", 0, 0],
-            ["Week 2", 1, 0]
+            ["Week 2", 1, 0],
+            ["Week 3", 1, 1],
+            ["Week 4", 0, 0],
+            ["Week 5", 3, 3],
+            ["Week 6", 1, 1],
+            ["Week 7", 2, 2]
         ]);
 
         // Set Chart options
@@ -327,7 +332,12 @@ function showGraph() {
             ["Week 51", 0, 0],
             ["Week 52", 0, 0],
             ["Week 1", 0, 0],
-            ["Week 2", 1, 0]
+            ["Week 2", 1, 0],
+            ["Week 3", 1, 1],
+            ["Week 4", 0, 0],
+            ["Week 5", 3, 3],
+            ["Week 6", 1, 1],
+            ["Week 7", 2, 2]
         ]);
 
         var table = new google.visualization.Table(document.getElementById("chart_table"));

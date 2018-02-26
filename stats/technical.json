@@ -1447,7 +1447,51 @@
         "appType": "Association",
         "platform": "iOS",
         "programmer": "Shrinath, Vinod",
-        "backup": "",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/DE/Association/EAU+app/v1.3/ios_modular_phoenix.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ACC Guidelines app",
+        "appVersion": "3.0",
+        "onlineDate": "13-02-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Piyush",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/EN/Associations+Society/ACC_app/v3.0/v3.0.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ACC Guidelines app",
+        "appVersion": "3.0",
+        "onlineDate": "14-02-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/EN/Association/ACC_app/v3.0/ACC_MB6.20_7Dec2017_3.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ESC Pocket Guidelines",
+        "appVersion": "3.7",
+        "onlineDate": "14-02-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Piyush",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/DE/Association/ESC/v3.7/v3.7.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ESC Pocket Guidelines",
+        "appVersion": "3.7",
+        "onlineDate": "15-02-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath, Harshit",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/DE/Association/ESC+GL+app/v3.7/ESC_V3.7_MB6.31_08_Feb_2018.zip",
         "details": ""
     }
 ]
