@@ -258,7 +258,14 @@ function showGraph() {
             ["Week 4", 0, 0],
             ["Week 5", 3, 3],
             ["Week 6", 1, 1],
-            ["Week 7", 2, 2]
+            ["Week 7", 2, 2],
+            ["Week 8", 0, 0],
+            ["Week 9", 0, 0],
+            ["Week 10", 0, 0],
+            ["Week 11", 0, 0],
+            ["Week 12", 1, 1],
+            ["Week 13", 0, 0],
+            ["Week 14", 2, 2]
         ]);
 
         // Set Chart options
@@ -337,7 +344,14 @@ function showGraph() {
             ["Week 4", 0, 0],
             ["Week 5", 3, 3],
             ["Week 6", 1, 1],
-            ["Week 7", 2, 2]
+            ["Week 7", 2, 2],
+            ["Week 8", 0, 0],
+            ["Week 9", 0, 0],
+            ["Week 10", 0, 0],
+            ["Week 11", 0, 0],
+            ["Week 12", 1, 1],
+            ["Week 13", 0, 0],
+            ["Week 14", 2, 2]
         ]);
 
         var table = new google.visualization.Table(document.getElementById("chart_table"));

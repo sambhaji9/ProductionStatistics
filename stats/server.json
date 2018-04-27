@@ -440,7 +440,7 @@
     },
     {
         "serialNo": "",
-        "appName": "AGO Guideline app",
+        "appName": "AGO Empfehlungen",
         "appVersion": "1.0",
         "onlineDate": "30-05-2017",
         "appType": "Association",
@@ -451,7 +451,7 @@
     },
     {
         "serialNo": "",
-        "appName": "AGO Guideline app",
+        "appName": "AGO Empfehlungen",
         "appVersion": "1.0",
         "onlineDate": "30-05-2017",
         "appType": "Association",
@@ -1062,6 +1062,160 @@
         "appType": "Association",
         "platform": "Android",
         "programmer": "Neville",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "DGK Leitlinien",
+        "appVersion": "4.5",
+        "onlineDate": "01-03-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "DGK Leitlinien",
+        "appVersion": "4.4",
+        "onlineDate": "26-02-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Piyush",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "AGO Empfehlungen",
+        "appVersion": "1.0",
+        "onlineDate": "06-03-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "AGO Empfehlungen",
+        "appVersion": "1.0",
+        "onlineDate": "06-03-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Piyush",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "EAU Guidelines app",
+        "appVersion": "1.3",
+        "onlineDate": "15-03-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "EAU Guidelines app",
+        "appVersion": "1.3",
+        "onlineDate": "15-03-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Piyush",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "COPD pocket 2018",
+        "appVersion": "3.3",
+        "onlineDate": "22-03-2018",
+        "appType": "Pharma",
+        "platform": "Android",
+        "programmer": "Aditya",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "COPD pocket 2018",
+        "appVersion": "3.3",
+        "onlineDate": "22-03-2018",
+        "appType": "Pharma",
+        "platform": "iOS",
+        "programmer": "Aditya",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "Multiple Sclerosis Dx & Mgmt.",
+        "appVersion": "5.0",
+        "onlineDate": "06-04-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Neville, Ankit",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "Multiple Sclerosis Dx & Mgmt.",
+        "appVersion": "5.0",
+        "onlineDate": "06-04-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Neville, Ankit",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ASCO Guideline app",
+        "appVersion": "1.2",
+        "onlineDate": "17-04-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Aditya",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ASCO Guideline app",
+        "appVersion": "1.2",
+        "onlineDate": "17-04-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Aditya",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "AHA Guidelines on-the-go app",
+        "appVersion": "2.0",
+        "onlineDate": "20-04-2018",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Aditya",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "AHA Guidelines on-the-go app",
+        "appVersion": "2.0",
+        "onlineDate": "20-04-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Aditya",
         "backup": "",
         "details": ""
     }
