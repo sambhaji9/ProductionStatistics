@@ -1593,5 +1593,38 @@
         "programmer": "Piyush",
         "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/DE/Association/ESC/v3.8/v3.8.zip",
         "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ESC pocket guidelines",
+        "appVersion": "3.9",
+        "onlineDate": "02-05-2018",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Shrinath, Vinod",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/DE/Association/ESC+GL+app/v3.8v3.9/ESC_V3.8_MB6.36_13_April_2018.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "Diabetes infopocket",
+        "appVersion": "1.0",
+        "onlineDate": "04-05-2018",
+        "appType": "Pharma",
+        "platform": "Android",
+        "programmer": "Neville, Suraj",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/DE/Pharma/Diabetes_infopocket/v1.0/v1.0.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "Diabetes infopocket",
+        "appVersion": "1.0",
+        "onlineDate": "04-05-2018",
+        "appType": "Pharma",
+        "platform": "iOS",
+        "programmer": "Harshit, Vinod",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/DE/Pharma/Diabetes_infopocket/v1.0/DMInfo_v1.0_v6.35_11_April_2018.zip",
+        "details": ""
     }
 ]

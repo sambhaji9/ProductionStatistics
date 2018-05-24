@@ -1218,5 +1218,27 @@
         "programmer": "Aditya",
         "backup": "",
         "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "Diabetes infopocket",
+        "appVersion": "1.0",
+        "onlineDate": "18-05-2018",
+        "appType": "Pharma",
+        "platform": "Android",
+        "programmer": "Sambhaji",
+        "backup": "",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "Diabetes infopocket",
+        "appVersion": "1.0",
+        "onlineDate": "18-05-2018",
+        "appType": "Pharma",
+        "platform": "iOS",
+        "programmer": "Nilesh",
+        "backup": "",
+        "details": ""
     }
 ]
