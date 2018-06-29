@@ -1,5 +1,4 @@
-﻿[
-    {
+﻿[{
         "serialNo": "#",
         "appName": "Name",
         "appVersion": "Version",
@@ -1625,6 +1624,83 @@
         "platform": "iOS",
         "programmer": "Harshit, Vinod",
         "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/DE/Pharma/Diabetes_infopocket/v1.0/DMInfo_v1.0_v6.35_11_April_2018.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ASCO Guideline app",
+        "appVersion": "1.3",
+        "onlineDate": "08-06-2017",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Nilesh",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/EN/Association/ASCO+app/v1.3/ASCO_MB_v6.28_21_June_2018.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "AGO Emfehlungen app",
+        "appVersion": "1.1",
+        "onlineDate": "08-06-2017",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Nilesh",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/DE/Association/AGO_app/v1.1/AGO_app_v1.1.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "AGO Emfehlungen app",
+        "appVersion": "1.1",
+        "onlineDate": "08-06-2017",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Suraj",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/DE/Association/AGO_app/v1.1/AGO_BACKUP.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ASEcho Guidelines app",
+        "appVersion": "4.0",
+        "onlineDate": "14-06-2017",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Nilesh",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/EN/Association/ASEcho_app/v4.0/ASECHO_MB_v6.35_21_june_2018.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ASEcho Guidelines app",
+        "appVersion": "4.0",
+        "onlineDate": "14-06-2017",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Suraj",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/EN/Associations+Society/ASEcho_app/v4.0/v4.0.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ADA Guidelines app",
+        "appVersion": "3.0",
+        "onlineDate": "14-06-2017",
+        "appType": "Association",
+        "platform": "iOS",
+        "programmer": "Nilesh, Vinod",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/iOS_apps/Online+apps/EN/Association/ADA_app/v3.0/ADA_MB_v6.35_21_June_2018.zip",
+        "details": ""
+    },
+    {
+        "serialNo": "",
+        "appName": "ADA Guidelines app",
+        "appVersion": "1.0",
+        "onlineDate": "14-06-2017",
+        "appType": "Association",
+        "platform": "Android",
+        "programmer": "Jaykishor, Suraj",
+        "backup": "https://s3-eu-west-1.amazonaws.com/bbi.appsdata.2013/Android_apps/Online+apps/EN/Associations+Society/ADA_app/v1.0/v1.0.zip",
         "details": ""
     }
 ]
